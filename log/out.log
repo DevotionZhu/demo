@@ -1,0 +1,2 @@
+Wed, 21 Aug 2019 14:06:44-log.record_log-record_log.py-[line:45]-ERROR-[日志信息]: 模块直接执行打印日志
+Wed, 21 Aug 2019 14:06:44-log.record_log-test.py-[line:5]-INFO-[日志信息]: 模块被导入打印日志
